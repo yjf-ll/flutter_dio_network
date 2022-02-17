@@ -222,6 +222,7 @@ void send() async {
   ```
 
 - 至此，dio的简单封装教程就结束了，有啥不懂得可以在评论区留言，或者有更好的方法也可以一起分享，感谢看完的铁铁们！：） 封装的技巧都是通用的，活学活用才是王道！
+- 完整demo地址：https://github.com/yjf-ll/flutter_dio_network
 
 
 
